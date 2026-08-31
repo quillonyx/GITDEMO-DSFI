@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "multiplication.html",
+    "href": "multiplication.html",
+    "title": "Multiplying numbers in R",
+    "section": "",
+    "text": "To multiply numbers in R use *\n\n2 * 3\n\n[1] 6"
+  },
+  {
+    "objectID": "classTask.html",
+    "href": "classTask.html",
+    "title": "Test",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "classTask.html#quarto",
+    "href": "classTask.html#quarto",
+    "title": "Test",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "classTask.html#running-code",
+    "href": "classTask.html#running-code",
+    "title": "Test",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "addition.html",
+    "href": "addition.html",
+    "title": "Adding numbers in R",
+    "section": "",
+    "text": "To add numbers in R use +\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
